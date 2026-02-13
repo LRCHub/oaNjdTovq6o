@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "INSOMNIAC BLACK",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-13T03:18:23.056595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/01_Insomniac_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lullaby For My Insomniac",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/02_Lullaby_For_My_Insomniac_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/03_Insomniac_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lullaby For an Insomniac",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/04_Lullaby_For_an_Insomniac_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Rose Walk, Insomniac",
+      "artist": "WHY?",
+      "has_synced": true,
+      "path": "select/05_On_Rose_Walk,_Insomniac_WHY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "UP LIKE AN INSOMNIAC - Freestyle",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/06_UP_LIKE_AN_INSOMNIAC_-_Freestyle_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UP LIKE AN INSOMNIAC",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/07_UP_LIKE_AN_INSOMNIAC_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "Dreamers",
+      "has_synced": true,
+      "path": "select/08_Insomniac_Dreamers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "insomniac",
+      "artist": "Miraie",
+      "has_synced": false,
+      "path": "select/09_insomniac_Miraie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "EchoBelly",
+      "has_synced": true,
+      "path": "select/10_Insomniac_EchoBelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Insomniac Jams",
+      "artist": "Make Do and Mend",
+      "has_synced": false,
+      "path": "select/11_Insomniac_Jams_Make_Do_and_Mend.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tea Party (feat. Insomniac_rap, Disciple_X & Kreyg)",
+      "artist": "Laura Shigihara",
+      "has_synced": true,
+      "path": "select/12_Tea_Party_(feat._Insomniac_rap,_Disciple_X_&_Kreyg)_Laura_Shigihara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "UP LIKE AN INSOMNIAC (Freestyle)",
+      "artist": "Xxxtentacion",
+      "has_synced": true,
+      "path": "select/13_UP_LIKE_AN_INSOMNIAC_(Freestyle)_Xxxtentacion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "UP LIKE AN INSOMNIAC",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/14_UP_LIKE_AN_INSOMNIAC_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Exhausted Insomniac",
+      "artist": "Days N Daze",
+      "has_synced": false,
+      "path": "select/15_Exhausted_Insomniac_Days_N_Daze.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "Trip Lee feat. Andy Mineo",
+      "has_synced": false,
+      "path": "select/16_Insomniac_Trip_Lee_feat._Andy_Mineo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Insomniac",
+      "artist": "Trip Lee",
+      "has_synced": false,
+      "path": "select/17_Insomniac_Trip_Lee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INSOMNIAC BLACK",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_INSOMNIAC_BLACK_Mori_Calliope.txt"
+    }
+  ]
+}
